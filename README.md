@@ -1,6 +1,6 @@
 # Lua plugin for Notepad++
   
-* Verufy syntax of Lua scripts.
+* Syntax verification of Lua scripts.
  
 * Run the script from the current file.
 * Print result in output console.
