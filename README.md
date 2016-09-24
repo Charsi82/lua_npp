@@ -17,7 +17,7 @@
  - printf(fmt,...) same as print(string.format(fmt,...))
  - clear_console() - clear output console
  - show_console() - show console if it's hidden
- - messagebox (text[, caption, [wnd_type]] ) - show message box.  
+ - messagebox (text[, caption[, wnd_type]] ) - show message box.  
  Caption is empty as default. Integer value wnd_type may be in interval 0..6.
  Result the function is the code of the pressed button.
 
@@ -27,3 +27,8 @@
  - You can switch language of interface between english and russian.  
  - To quickly close the console, you can double-click on it ;)
 
+# Requirements
+  vcredist2013 (https://www.microsoft.com/ru-RU/download/details.aspx?id=40784)
+
+# Download (x86 and x64)
+  link - https://yadi.sk/d/UIMIb8_8vZtMD
